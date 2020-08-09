@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ### flutter
 - [x] ui
 ### >>> task
+![t](https://github.com/JamesfChen/JamesfChen/edit/master/task.jpeg)
 <p align="left">
-  <img src="https://github.com/JamesfChen/JamesfChen/edit/master/task.jpeg" width="150"/>
+  <img src="./task.jpeg" width="150"/>
 </p>
