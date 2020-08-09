@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - [x] ui
 ### >>> task
 <p align="left">
-  <img src="task.jpeg" width="150"/>
+  <img src="https://github.com/JamesfChen/JamesfChen/edit/master/task.jpeg" width="150"/>
 </p>
