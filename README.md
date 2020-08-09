@@ -14,10 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### >>> todo list
+### program language
+- [ ] kotlin coroutines
+- [ ] dart
+- [ ] javascript
 #### crawler
 - [ ] [jvm](https://github.com/doocs/jvm) 
-### flutter
-- [x] ui
+### cross-platform fwk
+- [x] flutter：ui、backend
+- [ ] hybrid
+### design
+- [ ] sketch、ps、dribbble
 ### >>> task
 <p align="left">
   <img src="https://github.com/JamesfChen/JamesfChen/blob/master/task.jpeg" width="150"/>
