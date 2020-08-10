@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### >>> todo list
 ### program language
 - [ ] kotlin coroutines
-- [ ] dart
+- [x] dart
 - [ ] javascript
 #### crawler
 - [ ] [jvm](https://github.com/doocs/jvm) 
