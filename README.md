@@ -5,7 +5,7 @@
 - [ ] hybrid
 ### design
 - [ ] sketch、ps、dribbble
-### >>> task
+<!-- ### >>> task -->
 <!-- <p align="left">
   <img src="https://github.com/JamesfChen/JamesfChen/blob/master/task.jpeg" width="150"/>
 </p> -->
