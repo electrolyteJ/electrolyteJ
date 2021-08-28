@@ -6,6 +6,6 @@
 ### design
 - [ ] sketch、ps、dribbble
 ### >>> task
-<p align="left">
-  <img src="https://github.com/JamesfChen/JamesfChen/blob/master/task.jpeg1" width="150"/>
-</p>
+<!-- <p align="left">
+  <img src="https://github.com/JamesfChen/JamesfChen/blob/master/task.jpeg" width="150"/>
+</p> -->
