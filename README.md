@@ -1,8 +1,12 @@
 ### Hi there 👋
 ### >>> todo list
-### cross-platform fwk
+### 声明式编程(2022年任务)
 - [ ] flutter：ui、backend
+- [ ] jetpack compose
+
+### cross-platform fwk
 - [ ] hybrid
+
 ### design
 - [ ] sketch、ps、dribbble
 <!-- ### >>> task -->
