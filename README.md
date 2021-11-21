@@ -7,6 +7,10 @@
 ### cross-platform fwk
 - [ ] hybrid
 
+### platform
+- [x] bundles-assembler
+- [ ] apm
+
 ### design
 - [ ] sketch、ps、dribbble
 <!-- ### >>> task -->
