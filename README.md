@@ -4,12 +4,10 @@
 - [ ] flutter：ui、backend
 - [ ] jetpack compose
 
-### cross-platform fwk
-- [ ] hybrid
-
 ### platform
 - [x] bundles-assembler
 - [ ] apm
+- [ ] pisces-gemini
 
 ### design
 - [ ] sketch、ps、dribbble
