@@ -6,7 +6,7 @@
 
 ### platform
 - [x] bundles-assembler
-- [ ] apm
+- [ ] apm && optimization
 - [ ] pisces-gemini
 
 ### design
