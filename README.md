@@ -7,7 +7,7 @@
 ### platform
 - [x] bundles-assembler
 - [ ] apm && optimization
-- [ ] pisces-gemini
+- [ ] pisces
 
 ### design
 - [ ] sketch、ps、dribbble
