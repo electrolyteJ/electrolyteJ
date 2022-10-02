@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+plolyglot:js/python/java/kotlin
+
 ### >>> todo list
 ### 声明式编程(2022年任务)
 - [ ] flutter：ui、backend
