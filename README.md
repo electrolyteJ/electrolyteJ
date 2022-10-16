@@ -1,20 +1,10 @@
 ### Hi there 👋
 
-plolyglot:js/python/java/kotlin
+Android老司机聚焦大前端，关注性能优化，分享大前端技术、摄影、股票、人生感悟，理性地尝试与这个世界建立感性的连接。
 
-### >>> todo list
-### 声明式编程(2022年任务)
-- [ ] flutter：ui、backend
-- [ ] jetpack compose
+plolyglot:dart/javascript/python/java/kotlin
 
-### platform
-- [x] bundles-assembler
-- [ ] apm && optimization
-- [ ] pisces
+技术公众号
 
-### design
-- [ ] sketch、ps、dribbble
-<!-- ### >>> task -->
-<!-- <p align="left">
-  <img src="https://github.com/JamesfChen/JamesfChen/blob/master/task.jpeg" width="150"/>
-</p> -->
+![qrcode_for_gh_7ee5cf10b1bf_258](https://user-images.githubusercontent.com/13391139/196044770-c8e2a2f2-0be5-4571-b4d9-9faba5033503.jpeg)
+
