@@ -4,6 +4,8 @@
 
 plolyglot:dart/javascript/python/java/kotlin
 
+大前端repo：[big-frontend](https://github.com/big-frontend)，7天快速入门一个平台
+
 微信公众号：未知思考
 
 [掘金](https://juejin.cn/user/641770520320232/posts)：未知思考
