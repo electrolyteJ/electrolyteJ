@@ -4,7 +4,7 @@
 
 plolyglot:dart/javascript/python/java/kotlin
 
-大前端repo：[big-frontend](https://github.com/big-frontend)，7天快速入门一个平台
+大前端的技术探索 👉🏻 [🔥pisces](https://big-frontend.github.io/pisces/)
 
 微信公众号：未知思考
 
