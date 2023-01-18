@@ -2,7 +2,7 @@
 
 大前端老司机聚焦大前端技术，关注性能优化，分享摄影、股票、人生感悟，理性地尝试与这个世界建立感性的连接。
 
-plolyglot:dart/javascript/python/java/kotlin
+plolyglot:dart/javascript/python/java/kotlin/cpp
 
 大前端的技术探索 👉🏻 [🔥pisces](https://big-frontend.github.io/pisces/)
 
