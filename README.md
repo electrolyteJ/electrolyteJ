@@ -11,7 +11,8 @@
 - 大前端技术博客
   - 微信公众号：未知思考
   - [掘金](https://juejin.cn/user/641770520320232/posts)：未知思考
-  - 大前端的技术探索 👉🏻 [🔥pisces](https://big-frontend.github.io/pisces/)
+  - 大前端架构、性能、DevOps的技术探索 👉🏻 [🔥pisces](https://big-frontend.github.io/pisces/)
+  - [blog](https://electrolyteJ.github.io/blog)
 
 如果你也在学习这些东西欢迎探讨
 
