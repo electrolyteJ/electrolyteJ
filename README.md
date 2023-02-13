@@ -7,6 +7,7 @@
 👉🏻业余时间也在做这些事情
 - ☕️研究后端技术
 - 🤖大前端技术博客
+  - 微信公众号：未知思考
   - 📚[掘金 未知思考](https://juejin.cn/user/641770520320232/posts)
   - 📒[电解质blog](https://electrolyteJ.github.io/)
   - [🔥pisces](https://big-frontend.github.io/pisces/) ：大前端架构、性能、DevOps的技术探索文章
