@@ -13,7 +13,7 @@
   - [🔥pisces](https://big-frontend.github.io/pisces/) ：大前端架构、性能、DevOps的技术探索文章
 - 🐱开源项目
   - 🚀[bundles-assembler](https://github.com/electrolyteJ/bundles-assembler)：组件化的脚手架工程，通过图形化界面交互可以管理模块是否参与编译，是否源码编译，是否二进制编译，这样大大提高了构建速度
-  - 👻[padb](https://github.com/electrolyteJ/padb)：用python3封装丰富的操作设备和伪造设备信息的指令，且提供易于扩展的命令行框架
+  - 👻[padb](https://github.com/ghost-plan/padb)：用python3封装丰富的操作设备和伪造设备信息的指令，且提供易于扩展的命令行框架
   - ♓[pisces](https://github.com/big-frontend/pisces)：大前端项目实践
   - 🌏[super-retrofit](https://github.com/electrolyteJ/super-retrofit)：让Retrofit自由选择网络库，而不只是OkHttp这一种选择
 
