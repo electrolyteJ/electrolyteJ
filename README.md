@@ -7,7 +7,6 @@
 👉🏻业余时间也在做这些事情
 - ☕️全栈
 - 🤖大前端技术博客
-  - 微信公众号：大前端杂货铺
   - 📚[掘金 大前端杂货铺](https://juejin.cn/user/641770520320232/posts)
   - 📒[电解质blog](https://electrolyteJ.github.io/)
   - [🔥pisces](https://big-frontend.github.io/pisces/) ：大前端架构、性能、DevOps的技术探索文章
