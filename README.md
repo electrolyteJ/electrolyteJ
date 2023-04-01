@@ -16,8 +16,6 @@
   - ♓[pisces](https://github.com/big-frontend/pisces)：大前端项目实践
   - 🌏[super-retrofit](https://github.com/electrolyteJ/super-retrofit)：让Retrofit自由选择网络库，而不只是OkHttp这一种选择
 
-如果你也在学习这些东西欢迎探讨
-
 > 但行好事，莫问前程
 <!-- (plolyglot:dart/javascript/python/java/kotlin/cpp) -->
 <!-- ![qrcode_for_gh_7ee5cf10b1bf_258](https://user-images.githubusercontent.com/13391139/196044770-c8e2a2f2-0be5-4571-b4d9-9faba5033503.jpeg) -->
