@@ -8,7 +8,7 @@
 - ☕️全栈
 - 🤖大前端技术博客
   - 📚[掘金 大前端杂货铺](https://juejin.cn/user/641770520320232/posts)
-  - 📒[电解质blog](https://electrolyteJ.github.io/)
+  - 📒[电解质blog](https://electrolyteJ.github.io/blog)
   - [🔥pisces](https://big-frontend.github.io/pisces/) ：大前端架构、性能、DevOps的技术探索文章
 - 🐱开源项目
   - 🚀[bundles-assembler](https://github.com/electrolyteJ/bundles-assembler)：组件化的脚手架工程，通过图形化界面交互可以管理模块是否参与编译，是否源码编译，是否二进制编译，这样大大提高了构建速度
