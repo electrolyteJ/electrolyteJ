@@ -6,7 +6,7 @@
 
 ## 👉🏻业余时间
 
-📒 [electrolyteJ blog](https://electrolyteJ.github.io/blog)
+📒 [electrolyteJ blog](https://electrolyteJ.github.io/blog): 记录技术、生活、摄影、人生感悟
 
 <!-- BLOG-POST-LIST:START -->
 - [技术生态 与 商业生态](https://electrolyteJ.github.io/blog//2023-03-21/biz-tech-ecosystem)
@@ -16,17 +16,12 @@
 - [2022年总结：风雪不赶夜归人](https://electrolyteJ.github.io/blog//2023-01-20/2022summary)
 <!-- BLOG-POST-LIST:END -->
 
-[🔥pisces](https://big-frontend.github.io/pisces/) ：大前端架构、性能、DevOps的技术探索文章
+[🔥pisces blog](https://big-frontend.github.io/pisces/) ：大前端架构、性能、DevOps的技术探索文章
 
 <!-- pisces:START -->
 <!-- pisces:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&text_color=777&bg_color=00000000)](https://github.com/electrolyteJ/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrolyteJ&hide=scss,css,less,html&layout=compact&hide_title=true&hide_border=true&langs_count=12&bg_color=00000000&text_color=777)](https://github.com/electrolyteJ/github-readme-stats)
-
-
-🤖大前端技术博客
-  - 📚[掘金 大前端杂货铺](https://juejin.cn/user/641770520320232/posts)
-
 
 ☕️全栈-🐱开源项目
   - 🚀[bundles-assembler](https://github.com/electrolyteJ/bundles-assembler)：组件化的脚手架工程，通过图形化界面交互可以管理模块是否参与编译，是否源码编译，是否二进制编译，这样大大提高了构建速度
