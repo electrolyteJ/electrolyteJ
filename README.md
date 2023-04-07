@@ -19,11 +19,11 @@
 [🔥pisces blog](https://big-frontend.github.io/pisces/) ：大前端架构、性能、DevOps的技术探索文章
 
 <!-- pisces:START -->
-- [Index](https://github.com/big-frontend/pisces/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)
-- [Cross-Platform](https://github.com/big-frontend/pisces/cross_platform/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)
-- [Design Patterns](https://github.com/big-frontend/pisces/arch/design_patterns/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)
-- [Dynamic](https://github.com/big-frontend/pisces/arch/dynamic/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)
-- [Middleware](https://github.com/big-frontend/pisces/arch/middleware/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication)
+- [Index](https://big-frontend.github.io/pisces/)
+- [Cross-Platform](https://big-frontend.github.io/pisces/cross_platform/)
+- [Design Patterns](https://big-frontend.github.io/pisces/arch/design_patterns/)
+- [Dynamic](https://big-frontend.github.io/pisces/arch/dynamic/)
+- [Middleware](https://big-frontend.github.io/pisces/arch/middleware/)
 <!-- pisces:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&text_color=777&bg_color=00000000)](https://github.com/electrolyteJ/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrolyteJ&hide=scss,css,less,html&layout=compact&hide_title=true&hide_border=true&langs_count=12&bg_color=00000000&text_color=777)](https://github.com/electrolyteJ/github-readme-stats)
