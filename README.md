@@ -25,7 +25,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/electrolyteJ/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrolyteJ&hide=html)](https://github.com/electrolyteJ/github-readme-stats)
 
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=electrolyteJ&repo=github-readme-stats&show_owner=true)](https://github.com/electrolyteJ/github-readme-stats) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=electrolyteJ&repo=github-readme-stats&show_owner=true$layout=compat)](https://github.com/electrolyteJ/github-readme-stats) -->
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
