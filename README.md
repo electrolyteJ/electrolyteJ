@@ -21,7 +21,7 @@
 
 <!-- ![Snake animation](https://github.com/electrolyteJ/electrolyteJ/blob/output/github-contribution-grid-snake.svg) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/electrolyteJ/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrolyteJ&hide=html&layout=compact)](https://github.com/electrolyteJ/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ&count_private=true&show_icons=true&include_all_commits=true&&bg_color=00000000)](https://github.com/electrolyteJ/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrolyteJ&hide=scss,css,less,html&layout=compact&hide_title=true&hide_border=true&langs_count=12&bg_color=00000000&text_color=777)](https://github.com/electrolyteJ/github-readme-stats)
 
 [Latest Blog Posts](https://electrolyteJ.github.io/blog)
 
