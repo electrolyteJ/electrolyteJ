@@ -26,9 +26,13 @@
 - [Middleware](https://big-frontend.github.io/pisces/arch/middleware/)
 <!-- pisces:END -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&text_color=777&bg_color=00000000)](https://github.com/electrolyteJ/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrolyteJ&hide=scss,css,less,html&layout=compact&hide_title=true&hide_border=true&langs_count=12&bg_color=00000000&text_color=777)](https://github.com/electrolyteJ/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrolyteJ&hide=scss,css,less,html&layout=compact&hide_title=true&hide_border=true&langs_count=12&bg_color=00000000&text_color=777)](https://github.com/electrolyteJ/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&text_color=777&bg_color=00000000)](https://github.com/electrolyteJ/github-readme-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/electrolyteJ?site=cn&theme=dark&border=0)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/electrolyteJ?site=cn&theme=dark&border=0)](https://leetcode.com/electrolyteJ)
+
+<!-- ![Snake animation](https://github.com/electrolyteJ/electrolyteJ/blob/output/github-contribution-grid-snake.svg) -->
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=electrolyteJ&repo=github-readme-stats&show_owner=true)](https://github.com/electrolyteJ/github-readme-stats) -->
 
 ☕️全栈-🐱开源项目
   - 🚀[bundles-assembler](https://github.com/electrolyteJ/bundles-assembler)：组件化的脚手架工程，通过图形化界面交互可以管理模块是否参与编译，是否源码编译，是否二进制编译，这样大大提高了构建速度
@@ -37,16 +41,6 @@
   - 🌏[super-retrofit](https://github.com/electrolyteJ/super-retrofit)：让Retrofit自由选择网络库，而不只是OkHttp这一种选择
 
 > 但行好事，莫问前程
-<!-- (plolyglot:dart/javascript/python/java/kotlin/cpp) -->
-<!-- ![qrcode_for_gh_7ee5cf10b1bf_258](https://user-images.githubusercontent.com/13391139/196044770-c8e2a2f2-0be5-4571-b4d9-9faba5033503.jpeg) -->
-
-<!-- ![Snake animation](https://github.com/electrolyteJ/electrolyteJ/blob/output/github-contribution-grid-snake.svg) -->
-
-
-
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=electrolyteJ&repo=github-readme-stats&show_owner=true)](https://github.com/electrolyteJ/github-readme-stats) -->
-
 
 <!-- <details>
 <summary>
