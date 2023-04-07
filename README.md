@@ -22,7 +22,9 @@
 
 ![Snake animation](https://github.com/electrolyteJ/electrolyteJ/blob/output/github-contribution-grid-snake.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ)](https://github.com/electrolyteJ/github-readme-stats?count_private=true?show_icons=true?include_all_commits=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ)](https://github.com/electrolyteJ/github-readme-stats&count_private=true?show_icons=true&include_all_commits=true)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=electrolyteJ&repo=github-readme-stats&show_owner=true)](https://github.com/electrolyteJ/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrolyteJ&layout=compact&&hide=html)](https://github.com/electrolyteJ/github-readme-stats)
