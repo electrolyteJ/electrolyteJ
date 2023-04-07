@@ -29,11 +29,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [文件下载系统 --- 前言](http://localhost:4000/blog/2018-01-23/sn-file-download-subsystem-foreword.1)
-- [文件下载系统 --- DownloadProvider](http://localhost:4000/blog/2018-01-23/sn-file-download-subsystem-downloadmanager)
-- [2017年总结](http://localhost:4000/blog/2018-01-10/2017summary)
-- [Location系统 --- 前言](http://localhost:4000/blog/2017-12-12/location-system-foreword)
-- [React Native ---  前言](http://localhost:4000/blog/2017-11-10/react-native-foreword)
+- [技术生态 与 商业生态](https://electrolyteJ.github.io/2023-03-21/biz-tech-ecosystem)
+- [Android ART |  AppRuntime与Runtime 启动](https://electrolyteJ.github.io/2023-02-05/art-runtime-startup)
+- [Android ART |  前言](https://electrolyteJ.github.io/2023-02-04/art-foreword)
+- [Android ART | java家族与c家族的编译器](https://electrolyteJ.github.io/2023-02-01/art-compiler1)
+- [2022年总结：风雪不赶夜归人](https://electrolyteJ.github.io/2023-01-20/2022summary)
 <!-- BLOG-POST-LIST:END -->
 
 
