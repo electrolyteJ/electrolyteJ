@@ -27,5 +27,9 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=electrolyteJ&repo=github-readme-stats&show_owner=true)](https://github.com/electrolyteJ/github-readme-stats) -->
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
