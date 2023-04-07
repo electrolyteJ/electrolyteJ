@@ -26,7 +26,7 @@
 - [Middleware](https://big-frontend.github.io/pisces/arch/middleware/)
 <!-- pisces:END -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrolyteJ&hide=scss,css,less,html&layout=compact&hide_title=true&hide_border=true&langs_count=12&bg_color=00000000&text_color=777)](https://github.com/electrolyteJ/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&text_color=777&bg_color=00000000)](https://github.com/electrolyteJ/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&text_color=777&bg_color=00000000)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrolyteJ&hide=scss,css,less,html&layout=compact&hide_title=true&hide_border=true&langs_count=12&bg_color=00000000&text_color=777)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/electrolyteJ?site=cn&theme=dark&border=0)](https://leetcode.cn/u/electrolytej/)
 
