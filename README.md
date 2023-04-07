@@ -28,6 +28,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&text_color=777&bg_color=00000000)](https://github.com/electrolyteJ/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrolyteJ&hide=scss,css,less,html&layout=compact&hide_title=true&hide_border=true&langs_count=12&bg_color=00000000&text_color=777)](https://github.com/electrolyteJ/github-readme-stats)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/electrolyteJ?site=cn&theme=dark&border=0)
+
 ☕️全栈-🐱开源项目
   - 🚀[bundles-assembler](https://github.com/electrolyteJ/bundles-assembler)：组件化的脚手架工程，通过图形化界面交互可以管理模块是否参与编译，是否源码编译，是否二进制编译，这样大大提高了构建速度
   - 👻[padb](https://github.com/ghost-plan/padb)：用python3封装丰富的操作设备和伪造设备信息的指令，且提供易于扩展的命令行框架
