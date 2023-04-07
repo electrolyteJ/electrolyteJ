@@ -13,8 +13,27 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in electrolytej.github.io posts
+      - name: Pull in blogs posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://electrolytej.github.io/blog/feed"
           max_post_count: 5
+          
+          
+  update-readme-with-pisces:
+      name: Update this repo's README with pisces
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v3
+        - name: Pull in pisces posts
+          uses: gautamkrishnar/blog-post-workflow@v1
+          with:
+            comment_tag_name: "pisces"
+            feed_list: "https://big-frontend.github.io/pisces/feed_rss_created"
+            max_post_count: 5
+          
+        
+          
+          
+          
