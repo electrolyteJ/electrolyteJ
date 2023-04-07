@@ -22,3 +22,5 @@
 
 ![Snake animation](https://github.com/electrolyteJ/electrolyteJ/blob/output/github-contribution-grid-snake.svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ)](https://github.com/electrolyteJ/github-readme-stats)
+
