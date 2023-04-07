@@ -23,7 +23,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/electrolyteJ/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrolyteJ&hide=html&layout=compact)](https://github.com/electrolyteJ/github-readme-stats)
 
-[Blog Post](https://electrolyteJ.github.io/blog)
+[Latest Blog Posts](https://electrolyteJ.github.io/blog)
 
 <!-- BLOG-POST-LIST:START -->
 - [技术生态 与 商业生态](https://electrolyteJ.github.io/blog//2023-03-21/biz-tech-ecosystem)
