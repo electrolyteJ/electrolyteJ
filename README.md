@@ -29,5 +29,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrolyteJ&hide=html)](https://github.com/electrolyteJ/github-readme-stats)
 
-[![M](https://github-readme-stats.vercel.app/api/top-langs?username=electrolyteJ&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/electrolyteJ)
+[![M](https://github-readme-stats.vercel.app/api/top-langs?username=electrolyteJ&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/electrolyteJ/github-readme-stats)
 
