@@ -29,6 +29,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [文件下载系统 --- 前言](http://localhost:4000/blog/2018-01-23/sn-file-download-subsystem-foreword.1)
+- [文件下载系统 --- DownloadProvider](http://localhost:4000/blog/2018-01-23/sn-file-download-subsystem-downloadmanager)
+- [2017年总结](http://localhost:4000/blog/2018-01-10/2017summary)
+- [Location系统 --- 前言](http://localhost:4000/blog/2017-12-12/location-system-foreword)
+- [React Native ---  前言](http://localhost:4000/blog/2017-11-10/react-native-foreword)
 <!-- BLOG-POST-LIST:END -->
 
 
