@@ -27,7 +27,7 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=electrolyteJ&repo=github-readme-stats&show_owner=true)](https://github.com/electrolyteJ/github-readme-stats) -->
 
-# Blog posts
+# Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [技术生态 与 商业生态](https://electrolyteJ.github.io/2023-03-21/biz-tech-ecosystem)
 - [Android ART |  AppRuntime与Runtime 启动](https://electrolyteJ.github.io/2023-02-05/art-runtime-startup)
