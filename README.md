@@ -11,11 +11,11 @@
 📒 [electrolyteJ blog](https://electrolyteJ.github.io/blog): 记录技术、生活、摄影、人生感悟
 
 <!-- BLOG-POST-LIST:START -->
+- [图像 | Glide 动图](https://electrolyteJ.github.io/blog//2023-04-06/image-glide-animated-drawable)
 - [图像 | Glide设计](https://electrolyteJ.github.io/blog//2023-04-05/image-glide)
 - [技术生态 与 商业生态](https://electrolyteJ.github.io/blog//2023-03-21/biz-tech-ecosystem)
 - [Android ART |  AppRuntime与Runtime 启动](https://electrolyteJ.github.io/blog//2023-02-05/art-runtime-startup)
 - [Android ART |  前言](https://electrolyteJ.github.io/blog//2023-02-04/art-foreword)
-- [Android ART | java家族与c家族的编译器](https://electrolyteJ.github.io/blog//2023-02-01/art-compiler1)
 <!-- BLOG-POST-LIST:END -->
 
 [🔥pisces blog](https://big-frontend.github.io/pisces/) ：大前端架构、性能、DevOps的技术探索文章
