@@ -12,7 +12,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [图像 | Glide 动图](https://electrolyteJ.github.io/blog//2023-04-06/image-glide-animated-drawable)
-- [图像 | Glide设计](https://electrolyteJ.github.io/blog//2023-04-05/image-glide)
+- [图像 | Glide的设计](https://electrolyteJ.github.io/blog//2023-04-05/image-glide-design)
 - [技术生态 与 商业生态](https://electrolyteJ.github.io/blog//2023-03-21/biz-tech-ecosystem)
 - [Android ART |  AppRuntime与Runtime 启动](https://electrolyteJ.github.io/blog//2023-02-05/art-runtime-startup)
 - [Android ART |  前言](https://electrolyteJ.github.io/blog//2023-02-04/art-foreword)
