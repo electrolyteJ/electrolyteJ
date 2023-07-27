@@ -33,7 +33,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/electrolyteJ?site=cn&theme=dark&border=0)](https://leetcode.cn/u/electrolytej/)
 
 
-[!snka](https://github.com/electrolyteJ/electrolyteJ/blob/main/assets/github-contribution-grid-snake.svg)
+![snka](https://github.com/electrolyteJ/electrolyteJ/blob/main/assets/github-contribution-grid-snake.svg)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=electrolyteJ&repo=github-readme-stats&show_owner=true)](https://github.com/electrolyteJ/github-readme-stats) -->
 
