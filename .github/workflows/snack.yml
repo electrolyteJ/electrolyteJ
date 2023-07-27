@@ -35,20 +35,12 @@ jobs:
             echo "::notice::Snake files are up to date."
           fi
                   
-                  
-  three-dimession-graph:
+  waka:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+    - name: Update gist
+      uses: matchai/waka-box@master
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        GIST_ID: 40fabe4fbc612208eee108087d745c49
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
