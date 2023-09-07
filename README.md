@@ -8,7 +8,7 @@
 
 ## 👉🏻业余时间
 
-📒 [electrolyteJ blog](https://electrolyteJ.github.io/blog): 记录技术、生活、摄影、人生感悟
+📒 [electrolyteJ blog](https://electrolyteJ.github.io/blog): 记录产品、技术、商业、摄影、人生感悟
 
 <!-- BLOG-POST-LIST:START -->
 - [Java并发](https://electrolyteJ.github.io/blog//2023-04-20/java-concurrence)
