@@ -11,11 +11,11 @@
 📒 [electrolyteJ blog](https://electrolyteJ.github.io/blog): 记录产品、技术、商业、摄影、人生感悟
 
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin并发](https://electrolyteJ.github.io/blog//2023-04-21/kotlin-concurrence)
 - [Java并发](https://electrolyteJ.github.io/blog//2023-04-20/java-concurrence)
 - [图像 | Glide 动图](https://electrolyteJ.github.io/blog//2023-04-06/image-glide-animated-drawable)
 - [图像 | Glide的设计](https://electrolyteJ.github.io/blog//2023-04-05/image-glide-design)
 - [技术生态 与 商业生态](https://electrolyteJ.github.io/blog//2023-03-21/biz-tech-ecosystem)
-- [快应用 | 快应用启动](https://electrolyteJ.github.io/blog//2023-03-18/hapjs-launch)
 <!-- BLOG-POST-LIST:END -->
 
 [🔥pisces blog](https://big-frontend.github.io/pisces/) ：大前端架构、性能、DevOps的技术探索文章
