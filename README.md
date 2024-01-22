@@ -18,7 +18,7 @@
 - [图像 | Glide的设计](https://electrolyteJ.github.io/blog//2023-04-05/image-glide-design)
 <!-- BLOG-POST-LIST:END -->
 
-[🔥big-frontend blog](https://big-frontend.github.io/big-frontend/) ：大前端架构、性能、DevOps的技术探索文章
+[🔥big-frontend blog](https://big-frontend.github.io/.github/) ：大前端架构、性能、DevOps的技术探索文章
 
 <!-- pisces:START -->
 - [Index](https://big-frontend.github.io/pisces/)
