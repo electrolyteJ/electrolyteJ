@@ -30,7 +30,7 @@ jobs:
           uses: gautamkrishnar/blog-post-workflow@v1
           with:
             comment_tag_name: "big-frontend"
-            feed_list: "https://big-frontend.github.io/big-frontend/feed_rss_created"
+            feed_list: "https://big-frontend.github.io/.github/feed_rss_created"
             max_post_count: 6
           
         
