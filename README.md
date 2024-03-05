@@ -18,16 +18,8 @@
 - [图像 | Glide的设计](https://electrolyteJ.github.io/blog//2023-04-05/image-glide-design)
 <!-- BLOG-POST-LIST:END -->
 
-[🔥big-frontend blog](https://big-frontend.github.io/.github/) ：大前端架构、性能、DevOps的技术探索文章
-
-<!-- big-frontend:START -->
-- [Index](https://big-frontend.github.io/.github/)
-- [Cross-Platform](https://big-frontend.github.io/.github/cross_platform/)
-- [Design Patterns](https://big-frontend.github.io/.github/arch/design_patterns/)
-- [Dynamic](https://big-frontend.github.io/.github/arch/dynamic/)
-- [Middleware](https://big-frontend.github.io/.github/arch/middleware/)
-- [Module Evolution](https://big-frontend.github.io/.github/arch/module_evolution/)
-<!-- big-frontend:END -->
+🔥 [big front end](https://github.com/big-frontend) ：大前端架构、性能、DevOps的技术探索
+👻 [ghost plan](https://github.com/ghost-plan): 攻守易形
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrolyteJ&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&text_color=777&bg_color=00000000)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electrolyteJ&hide=scss,css,less,html&layout=compact&hide_title=true&hide_border=true&langs_count=8&bg_color=00000000&text_color=777)
 
