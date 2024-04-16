@@ -11,11 +11,11 @@
 📒 [electrolyteJ blog](https://electrolyteJ.github.io/blog): 记录产品、技术、商业、摄影、人生感悟
 
 <!-- BLOG-POST-LIST:START -->
+- [Android | ANR](https://electrolyteJ.github.io/blog//2024-04-22/android-anr)
 - [2023年 《包体积优化》 分享](https://electrolyteJ.github.io/blog//2023-12-16/shared-appsize)
 - [Kotlin并发](https://electrolyteJ.github.io/blog//2023-04-21/kotlin-concurrence)
 - [Java并发](https://electrolyteJ.github.io/blog//2023-04-20/java-concurrence)
 - [图像 | Glide 动图](https://electrolyteJ.github.io/blog//2023-04-06/image-glide-animated-drawable)
-- [图像 | Glide的设计](https://electrolyteJ.github.io/blog//2023-04-05/image-glide-design)
 <!-- BLOG-POST-LIST:END -->
 
 🔥 [big front end](https://github.com/big-frontend) ：大前端架构、性能、DevOps的技术探索
