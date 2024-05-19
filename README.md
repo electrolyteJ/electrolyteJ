@@ -11,11 +11,11 @@
 📒 [electrolyteJ blog](https://electrolyteJ.github.io/blog): 记录产品、技术、商业、摄影、人生感悟
 
 <!-- BLOG-POST-LIST:START -->
+- [React Native |  Hermes Support WASM](https://electrolyteJ.github.io/blog//2024-05-14/hermes-wasm)
 - [React Native |  Hermes前言](https://electrolyteJ.github.io/blog//2024-05-12/hermes-foreword)
 - [Android | ANR](https://electrolyteJ.github.io/blog//2024-04-22/android-anr)
 - [Java集合](https://electrolyteJ.github.io/blog//2024-04-11/java-collections)
 - [2023年 《包体积优化》 分享](https://electrolyteJ.github.io/blog//2023-12-16/shared-appsize)
-- [Kotlin并发](https://electrolyteJ.github.io/blog//2023-04-21/kotlin-concurrence)
 <!-- BLOG-POST-LIST:END -->
 
 🔥 [big front end](https://github.com/big-frontend) ：大前端架构、性能、DevOps的技术探索
