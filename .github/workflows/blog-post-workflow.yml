@@ -20,18 +20,18 @@ jobs:
           max_post_count: 5
           
           
-  update-readme-with-big-frontend:
-      name: Update this repo's README with big-frontend
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v3
-        - name: Pull in big-frontend posts
-          uses: gautamkrishnar/blog-post-workflow@v1
-          with:
-            comment_tag_name: "big-frontend"
-            feed_list: "https://big-frontend.github.io/.github/feed_rss_created"
-            max_post_count: 6
+  # update-readme-with-big-frontend:
+  #     name: Update this repo's README with big-frontend
+  #     runs-on: ubuntu-latest
+  #     steps:
+  #       - name: Checkout
+  #         uses: actions/checkout@v3
+  #       - name: Pull in big-frontend posts
+  #         uses: gautamkrishnar/blog-post-workflow@v1
+  #         with:
+  #           comment_tag_name: "big-frontend"
+  #           feed_list: "https://big-frontend.github.io/.github/feed_rss_created"
+  #           max_post_count: 6
           
         
           
