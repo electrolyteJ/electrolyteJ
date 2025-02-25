@@ -12,7 +12,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [alfred workflow](https://electrolyteJ.github.io/blog//2025-02-16/tools-alfred)
-- [代码管理平台、代码持续构建平台、产物平台搭建](https://electrolyteJ.github.io/blog//2024-08-16/tools-devops-code)
+- [devops搭建](https://electrolyteJ.github.io/blog//2024-08-16/tools-devops)
 - [React Native |  Hermes Support WASM](https://electrolyteJ.github.io/blog//2024-05-14/hermes-wasm)
 - [React Native |  Hermes前言](https://electrolyteJ.github.io/blog//2024-05-12/hermes-foreword)
 - [Android | ANR](https://electrolyteJ.github.io/blog//2024-04-22/android-anr)
